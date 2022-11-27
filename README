@@ -1,0 +1,3 @@
+This try to mimic the api from webui. For the only purpose of being easier to test for applications without having to use GPU.
+
+Stable Diffusion WebUI repository: https://github.com/AUTOMATIC1111/stable-diffusion-webui
